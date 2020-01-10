@@ -27,3 +27,7 @@ To explore and derive insights of the neighbourhoods best suited for future home
   
 These five factors are some of the most important factors that influence one’s decision in shortlisting a neighbourhood for their next home. 
 This will provide a comprehensive guide for users to quickly go through each neighbourhood and determine the popular neighbourhoods based on the factors stated above. 
+
+
+The file can also be viewed here:
+https://public.tableau.com/profile/priyanka.mukherjee#!/vizhome/Project2-Neighbourhoodanalysis/Story1
